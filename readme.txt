@@ -1,0 +1,1 @@
+1. php.ini file to display proper error msg.
